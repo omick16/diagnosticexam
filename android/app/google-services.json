@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1002255485744",
+    "project_id": "habitsgo-d9937",
+    "storage_bucket": "habitsgo-d9937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002255485744:android:afd00cc0b0d0f29467d6f5",
+        "android_client_info": {
+          "package_name": "com.kr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002255485744-bgn34vu8j3q6trmujkapbroan83iprgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCraQfg18Gi5v3W-xEFcKdedtxfz43uzTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002255485744-bgn34vu8j3q6trmujkapbroan83iprgi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1002255485744-h8qm18f6dripslpo3sm4a3t8qrk2126u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.krom.goHabits"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002255485744:android:b600164164c43dd667d6f5",
+        "android_client_info": {
+          "package_name": "com.krom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002255485744-bgn34vu8j3q6trmujkapbroan83iprgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCraQfg18Gi5v3W-xEFcKdedtxfz43uzTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002255485744-bgn34vu8j3q6trmujkapbroan83iprgi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1002255485744-h8qm18f6dripslpo3sm4a3t8qrk2126u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.krom.goHabits"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002255485744:android:65b4349a1d6eae6267d6f5",
+        "android_client_info": {
+          "package_name": "com.krom.goHabits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002255485744-bgn34vu8j3q6trmujkapbroan83iprgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCraQfg18Gi5v3W-xEFcKdedtxfz43uzTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002255485744-bgn34vu8j3q6trmujkapbroan83iprgi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1002255485744-h8qm18f6dripslpo3sm4a3t8qrk2126u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.krom.goHabits"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
